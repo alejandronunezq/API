@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96a2cf85-e891-48c2-8bd5-c95d373c6364" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/getUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/getUser.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YlwYaopo6W14GKUOZbo0wGe5YT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/API&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96a2cf85-e891-48c2-8bd5-c95d373c6364" name="Changes" comment="" />
+      <created>1701113522726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701113522726</updated>
+      <workItem from="1701113523933" duration="2510000" />
+      <workItem from="1701192824545" duration="644000" />
+      <workItem from="1701223248101" duration="939000" />
+      <workItem from="1701224601427" duration="1482000" />
+      <workItem from="1701275150478" duration="8000" />
+      <workItem from="1701371530565" duration="1056000" />
+      <workItem from="1701380660480" duration="1280000" />
+      <workItem from="1701383192547" duration="2964000" />
+      <workItem from="1701386630356" duration="3415000" />
+      <workItem from="1701393196725" duration="1958000" />
+      <workItem from="1701445282960" duration="146000" />
+      <workItem from="1701445824090" duration="1248000" />
+      <workItem from="1701447878965" duration="596000" />
+      <workItem from="1701474464557" duration="454000" />
+      <workItem from="1701628593574" duration="3156000" />
+      <workItem from="1701633086926" duration="2544000" />
+      <workItem from="1701653185399" duration="4314000" />
+      <workItem from="1701661203599" duration="1435000" />
+      <workItem from="1701663779033" duration="2861000" />
+      <workItem from="1701742252514" duration="1516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
