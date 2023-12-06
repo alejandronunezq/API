@@ -3,7 +3,7 @@ require 'database.php';
 
 $idusuario = $_POST['idusuario'];
 $email = $_POST['email'];
-$password = $_POST['password']; // Considera hashear la contraseña
+$password = $_POST['password'];
 $tipoCuenta = $_POST['tipoCuenta'];
 
 $hashedPassword = password_hash($password, PASSWORD_DEFAULT);
