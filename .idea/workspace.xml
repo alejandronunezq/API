@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a2cf85-e891-48c2-8bd5-c95d373c6364" name="Changes" comment="Agregue mas funciones">
-      <change afterPath="$PROJECT_DIR$/imagenes/img_1701744324618.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+    <list default="true" id="96a2cf85-e891-48c2-8bd5-c95d373c6364" name="Changes" comment="Agregue mas funciones de llamada">
+      <change afterPath="$PROJECT_DIR$/imagenes/pug.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateList.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/addUser.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/getUser.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_mascotas.php" beforeDir="false" afterPath="$PROJECT_DIR$/get_mascotas.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/put_mascotas.php" beforeDir="false" afterPath="$PROJECT_DIR$/put_mascotas.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/updateUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/updateUser.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload_image.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload_image.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +87,8 @@
       <workItem from="1701815477528" duration="345000" />
       <workItem from="1701835497510" duration="23000" />
       <workItem from="1701835620340" duration="148000" />
-      <workItem from="1701837171530" duration="2763000" />
+      <workItem from="1701837171530" duration="3699000" />
+      <workItem from="1701873290485" duration="9581000" />
     </task>
     <task id="LOCAL-00001" summary="Agregue mas funciones">
       <option name="closed" value="true" />
@@ -102,7 +98,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701744137068</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Agregue mas funciones de llamada">
+      <option name="closed" value="true" />
+      <created>1701840362310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701840362310</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Agregue mas funciones de llamada">
+      <option name="closed" value="true" />
+      <created>1701840397826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701840397826</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Agregue mas funciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregue mas funciones" />
+    <MESSAGE value="Agregue mas funciones de llamada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregue mas funciones de llamada" />
   </component>
 </project>
